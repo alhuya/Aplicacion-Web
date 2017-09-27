@@ -1,0 +1,39 @@
+
+
+div{
+	background-color: #A5A4A9;
+}
+.container {
+	
+	padding: 48px;
+	margin: 65px 0px 0px 395px;
+	
+	
+}
+
+body{
+	background-image:url("../Imagenes/imagen.jpg")
+}
+.Titulo{
+	text-align: center;
+}
+.button{
+	text-align: center;
+	padding: 36px;
+}
+h3{
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+	font:bold 25px "Trebuchet MS";
+}
+label{
+	font-family: 'Slabo 32px', serif;
+}
+.titulo_direccion{
+	text-align: center;
+}
+h2{
+	font-family: 'Bitter', serif;
+	margin: 71px;
+	font:bold 49px "Trebuchet MS";
+}
